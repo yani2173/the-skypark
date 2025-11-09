@@ -27,4 +27,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: TheSkypark
-          path: Packager/bin/Release/
+          path: Packager/packager/bin/Release/
+
